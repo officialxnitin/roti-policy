@@ -42,6 +42,6 @@ Any future changes or updates to this policy, will be made aware of to our users
 
 ## Owner
 
-Nitin (Psychotic)
+Nitin Sheokand (Psychotic)
 
 - [GitHub](https://github.com/officialxnitin)
