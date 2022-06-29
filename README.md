@@ -43,6 +43,6 @@ Any future changes or updates to this policy, will be made aware of to our users
 
 ## Owner
 
-Nitin Sheokand (PsyChotic)
+- Nitin Sheokand (PsyChotic)
 
 - GitHub: https://github.com/officialxnitin
