@@ -38,7 +38,8 @@ Any future changes or updates to this policy, will be made aware of to our users
 
 ## Developers
 
-- Imran Barbhuiya (Parbez) https://github.com/imranbarbhuiya
+- Imran Barbhuiya (Parbez)
+- GitHub: https://github.com/imranbarbhuiya
 
 ## Owner
 
