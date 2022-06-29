@@ -38,10 +38,10 @@ Any future changes or updates to this policy, will be made aware of to our users
 
 ## Developers
 
-- Imran Barbhuiya [Parbez](https://github.com/imranbarbhuiya)
+- Imran Barbhuiya (Parbez) https://github.com/imranbarbhuiya
 
 ## Owner
 
-Nitin Sheokand (Psychotic)
+Nitin Sheokand (PsyChotic)
 
-- [GitHub](https://github.com/officialxnitin)
+- GitHub: https://github.com/officialxnitin
